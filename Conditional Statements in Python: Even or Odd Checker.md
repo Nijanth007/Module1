@@ -9,7 +9,7 @@ To write a Python program to check whether the given number is **even** or **odd
 3. Use the modulo operator `%` to check if `a % 2 == 0`.
    - If true, print `"EVEN"`.
    - Else, print `"ODD"`.
-4. End the program.
+4. End the program. 
 
 ## 🧾 Program
 ~~~
