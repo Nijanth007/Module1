@@ -10,7 +10,7 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ~~~
-5
+5 
 3
 (5+3j)
 5.0
